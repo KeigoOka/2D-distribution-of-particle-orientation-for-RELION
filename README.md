@@ -1,10 +1,11 @@
 # 2D-distribution-of-particle-orientation-for-RELION
+![image](https://github.com/user-attachments/assets/72abcff6-6c43-4e06-9bab-05b977989f94)
 
 ## Overview
- This is a script developed for RELION to convert distribution of particle orientation to 2D. <br>
- Although RELION has a 3D distribution of particle orientations, detailed evaluation can be difficult in 3D. On the other hand, CryoSPARC has a 2D distribution of particle orientation, but it does not consider the symmetry of the structure.<br>
- This script uses only the .star file output by Refine3D job. As a result, it outputs a 2D distribution of particle orientation. In addition, this script outputs symmetry-aware figure.<br>
- This script allows for detailed evaluation, such as a quantitative evaluation of the particle orientation distribution.<br>
+This is a script developed for RELION to convert distribution of particle orientation to 2D. <br>
+Although RELION has a 3D distribution of particle orientations, detailed evaluation can be difficult in 3D. On the other hand, CryoSPARC has a 2D distribution of particle orientation, but it does not consider the symmetry of the structure.<br>
+This script uses only the .star file output by Refine3D job. As a result, it outputs a 2D distribution of particle orientation. In addition, this script outputs symmetry-aware figure.<br>
+This script allows for detailed evaluation, such as a quantitative evaluation of the particle orientation distribution.<br>
 
 ## Requirement
 ・Linux<br>
