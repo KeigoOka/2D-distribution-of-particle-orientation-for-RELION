@@ -1,5 +1,5 @@
 # 2D-distribution-of-particle-orientation-for-RELION
-![gif](https://github.com/user-attachments/assets/72abcff6-6c43-4e06-9bab-05b977989f94)
+![2D_dist](https://github.com/user-attachments/assets/331518ca-b70a-44b4-bbfa-87013e526c9e)
 
 ## Overview
 This is a script developed for RELION to convert distribution of particle orientation to 2D. <br>
